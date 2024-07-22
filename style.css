@@ -74,6 +74,10 @@ button[type="submit"]:hover {
   h1 {
    margin-left: 200px;
   }
+
+  #result{
+     text-align: center;
+  }
  
 }
 
